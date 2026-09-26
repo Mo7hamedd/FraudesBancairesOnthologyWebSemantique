@@ -1,0 +1,13 @@
+# Ignorer tout le contenu à la racine
+/*
+!/.gitignore
+
+# Fichiers nécessaires au fonctionnement du projet
+!/ontologie_complete.ttl
+!/docker-compose.yml
+!/requirements.txt
+!/dashboard.html
+!/dashboard_server.py
+!/api_producer.py
+!/consumer_detection.py
+!/sparql_engine.py
